@@ -1,4 +1,4 @@
-# Project_olist-sql-data-warehouse_
+
 # Olist SQL Data Warehouse & Analytics
 
 ## Project Overview
